@@ -35,6 +35,12 @@ ComfyUI 自带的 `Load Audio` 节点通常一次只能选择一个音频文件�
 
 ## 3. 安装方法
 
+###GitHub 安装 / 更新（推荐）
+
+首次安装时，在 ComfyUI 的 custom_nodes 目录执行：
+
+git clone https://github.com/haqia89/ComfyUI-LoadAudioMulti.git
+
 ### 方式一：手动安装
 
 将整个 `ComfyUI-LoadAudioMulti` 文件夹放入 ComfyUI 的 `custom_nodes` 目录：
